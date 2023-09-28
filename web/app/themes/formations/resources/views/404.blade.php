@@ -1,4 +1,4 @@
-@extends('layouts.app')
+@extends('layouts.formations')
 
 @section('content')
   @include('partials.page-header')
